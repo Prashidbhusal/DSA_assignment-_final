@@ -1,0 +1,9 @@
+1;KTM;ktm
+2;Bhaktpur;Bhaktapur
+3;Lalitpur;lalitpur
+4;mnr; kailai
+5;dhangadi;dhulikhel
+1234;Surkhet;best
+435;Kanchanpur;very good
+675;Bhasi;local
+848;Krishnapur;lolofl
